@@ -1,6 +1,5 @@
 package com.dazzlingstar.springboot.restdemo.controllers;
 
-import com.dazzlingstar.springboot.restdemo.dao.EmployeeDAO;
 import com.dazzlingstar.springboot.restdemo.model.Employee;
 import com.dazzlingstar.springboot.restdemo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
