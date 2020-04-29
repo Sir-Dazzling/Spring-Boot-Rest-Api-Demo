@@ -1,4 +1,4 @@
-package com.dazzlingstar.springboot.restdemo.rest;
+package com.dazzlingstar.springboot.restdemo.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
